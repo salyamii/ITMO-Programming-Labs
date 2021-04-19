@@ -1,1 +1,1 @@
-# ITMO-Programming-Labs
+# Labs in ITMO
